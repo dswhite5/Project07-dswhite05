@@ -5,6 +5,8 @@ Project07 for STA518 personal Website
 
 I picked the hugo Reseacher theme because it seemed simple for my first foray into making this site. I tried a couple of other themes first but couldn't get a preview to show up on Rstudio. I edited the about and contact section in the content folder. There is a post folder, That I attempted to update, but it doesn't seem to show either on the site or on the viewer in Rstudio. I thought this might just be a problem with relative paths but I cant find anywhere that actually tells the site to look there for posts. After some more reading I am not sure if the Hugo Reseacher site is meant to have updated posts and is more more of an online resume. If you can find something that might indicate otherwise let me know.
 
+I previously had Rstudion and git installed on my personal computer
+
 I used install.packages(blogdown) to get the blogdown package
 
 I used blogdown::install_hugo() to get hugo installed
