@@ -1,0 +1,12 @@
+---
+title: This is a test Post
+author: Seth White
+date: '2021-04-18'
+slug: this-is-a-test-post
+categories: []
+tags: []
+---
+
+IS this a an R markdow or what?
+
+
