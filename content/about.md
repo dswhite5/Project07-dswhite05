@@ -13,7 +13,7 @@ I am former mechanical Engineer who is trying to transition my career into Data 
 
 ## Education History
 
-M.S. Data Science and Analytics at Grand Valley State University 2021
+M.S. Data Science and Analytics at Grand Valley State University 2023
 
 B.A in Physics Calvin College 2007-2010
 
