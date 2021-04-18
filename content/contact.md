@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-* Email: [dswhite@mail.gvsu.edu](mailto:dswhite@mail.gvsu.edu)
+* Email: [whiteds@mail.gvsu.edu](mailto:dswhite@mail.gvsu.edu)
 
 ---
 
