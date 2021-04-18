@@ -12,8 +12,8 @@ params:
   description: A simple monospaced resume theme for Hugo.
   favicon: favicon.ico
   footer:
-    text: By Olivier Roques
-    url: https://github.com/ojroques/hugo-researcher
+    text: By Seth White
+    url: https://github.com/dswhite5/Project07-dswhite05
   logo: ''
   style:
     avatarSize: 90px
