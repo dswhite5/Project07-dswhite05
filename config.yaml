@@ -1,5 +1,5 @@
 title: Seth White
-baseURL: https://inspiring-curie-d86521.netlify.app/
+baseURL: https://seth-white.netlify.app/
 theme: hugo-researcher
 disableKinds:
   - taxonomy
