@@ -12,7 +12,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 # R Markdown
 
-I am making this site my own ste
+I am making this site my own
 
 ```{r cars}
 summary(cars)
