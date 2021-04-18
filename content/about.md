@@ -4,58 +4,70 @@ title: About
 
 ## About Me
 
-{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/profile.JPG" alt="avatar">}}
 
 This is a Hugo based resume template. You can find the full source code on
 [GitHub](https://github.com/ojroques/hugo-researcher).
 
-## Research Interest
+I am former mechanical Engineer who is trying to transition my career into Data Science. I am currently enrolled in a Masters in Data Science Program at Grand Valley State University in Allendale Michigan
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum
-ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio
-pharetra quis[^1]. Mauris id urna ante.
+## Education History
 
-Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque
-laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit[^2]. Nunc
-ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+M.S. Data Science and Analytics at Grand Valley State University 2021
 
-## Publications
+B.A in Physics Calvin College 2007-2010
 
-In chronological order:
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Work Experience
 
-## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+Graduate Assistant at GVSU
+2021
 
-Here is a table:
+•	Developed Python questions for applicants to the Data Science program to help them independently determine Python and programming adequacy level before registering for classes.
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+•	Used Git, Github, and docker to track progress, consult with supervisor and test questions for quality control prior to publishing. 
 
-Here is a horizontal rule:
 
----
+Mechanical Engineer
+Hooker DeJong Architects and Engineeers
+2018-2020
 
-Here is a blockquote:
+•	Developed energy models for different building types to varying degrees of accuracy. Overall energy efficiency analysis for LEED modeling, Energy analysis of different energy scenarios for LEED integrative process credits, Utility cost analysis for MSHDA apartment buildings. The first in the state of Michigan.
 
-> To a great mind, nothing is little
+•	Performed and provided trouble shooting, analysis, and engineering documents for various problems identified by Oakland County maintenance staff for Oakland County owned buildings. Including energy 
 
-Here is a `code` block:
+•	Developed HVAC and plumbing engineering construction documents for a variety of building types. Primarily focusing on Multi-Family apartment buildings, Office buildings and healthcare facilities
 
-```python
-def is_elementary():
-  return True
-```
+Mechanical Designer
+Peter Basso Associates
+2016-2018
 
-## References
+•	Developed and designed HVAC and utility systems from schematic phase to construction documents. Interfaced with architects, clients and other engineers to create best engineered system for specific projects.
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+•	Assisted in feasibility studies for different systems by providing, data analysis, written technical reports, technical descriptions of equipment and systems utilized, and projection of cost savings and rates based on current available data on utility and equipment cost. 
 
-[^1]: This is the first footnote.
-[^2]: This is the second footnote.
+•	Systems designed and analyzed include airside systems, decentralized chilled water/hot water loops, micro-turbine electric/heat generators, and hot water and chilled water centralized heating systems.
+
+
+
+## Activities and Interests
+
+R blogdown and Shiny Apps
+
+Twitter and Instagram Bots with Python
+
+Hockey
+
+
+
+
+A couple of my favorite quotes
+
+> "Everyone is a genius, but if you judge a fish by its ability to climb a tree, it will live its whole life thinking its stupid"" - Albert Einstein
+
+>"Dont assume that every quote you see on the internet attributed to Abraham Lincoln was actually said by Abraham Lincoln" -Gandalf
+
+
+
+
+

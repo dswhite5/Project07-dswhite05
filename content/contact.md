@@ -2,23 +2,10 @@
 title: Contact
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [dswhite@mail.gvsu.edu](mailto:dswhite@mail.gvsu.edu)
 
 ---
 
-## Mailing Address
+## Reach out
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+please reach out via email if you have any questions for me or would like to offer me job with a very large salary.
